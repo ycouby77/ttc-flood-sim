@@ -4,7 +4,7 @@ Floods part of Toronto's street network and works out how a TTC route would have
 
 Built on TTC GTFS schedule data and OpenStreetMap streets (via [OSMnx](https://osmnx.readthedocs.io/)).
 
-Started as a first-year team design project for ES 1050 at Western Engineering (winter 2025): the brief was to take on a problem related to flooding or fires, and our team chose flooding in Toronto. The original team prototype is preserved in `legacy/`; the package in `floodsim/` is a 2026 rebuild. An interactive browser version runs on [my portfolio](https://ycouby77.github.io/projects/ttc-flood-sim).
+Started as a first-year team design project for ES 1050 at Western Engineering (winter 2025): the brief was to take on a problem related to flooding or fires, and our team chose flooding in Toronto. The original team prototype is preserved in `legacy/`; the package in `floodsim/` is a 2026 rebuild. An interactive browser version runs on [my portfolio](https://yacoubderradji.dev/projects/ttc-flood-sim).
 
 ## Setup
 
