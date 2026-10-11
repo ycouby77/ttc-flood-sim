@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+output/
+cache/
+data/osm/
+# GTFS feed is large; download it (see README) instead of committing it
+data/gtfs/

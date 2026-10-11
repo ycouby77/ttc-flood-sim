@@ -1,0 +1,8 @@
+[project]
+name = "ttc-flood-sim"
+version = "0.2.0"
+description = "Reroute a TTC route around flooded roads using GTFS + OpenStreetMap"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
